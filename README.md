@@ -1,1 +1,2 @@
-# This is just a version of web3point1 with npm support
+# win3.1css
+literally just a streamlined version of web3point1 with npm support
